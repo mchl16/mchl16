@@ -24,6 +24,7 @@ I'm a 3rd year student of computer science. Currently I'm focusing on learning a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)&nbsp;
+![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
 
 <!--
 **mchl16/mchl16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
