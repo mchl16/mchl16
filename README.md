@@ -1,6 +1,7 @@
 ### 👋 About me
-I'm a 3rd year student of computer science. Currently I'm focusing on learning artificial intelligence and machine learning.
+I'm a 4th year student of computer science.
 
+<!--
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -25,6 +26,7 @@ I'm a 3rd year student of computer science. Currently I'm focusing on learning a
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
+-->
 
 <!--
 **mchl16/mchl16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
