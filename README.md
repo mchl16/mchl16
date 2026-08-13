@@ -1,13 +1,10 @@
 ### 👋 About me
-I'm a 4th year student of computer science.
+I'm a CS student at the University of Wrocław. I'm about to start my master's degree.
 
-<!--
 ### 🛠 &nbsp;Tech Stack
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![PostgreSQL\#](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
@@ -17,11 +14,11 @@ I'm a 4th year student of computer science.
 ![Algorithms and data structures](https://img.shields.io/badge/-Algorithms_and_data_structures-05122A?style=flat)
 
 ### 📚 &nbsp;Currently learning
-![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=ocaml)&nbsp;
 ![Artificial intelligence](https://img.shields.io/badge/-Artificial_intelligence-05122A?style=flat)
 ![Machine learning](https://img.shields.io/badge/-Machine_learning-05122A?style=flat)
 
-### ⚙️ &nbsp;Other tech I used
+<!--
+### ⚙️ &nbsp;Other tech I have used in my lifetime
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)&nbsp;
