@@ -21,7 +21,7 @@ I'm a CS student at the University of Wrocław. I'm about to start my master's d
 A few ideas for a project I might pursue in the future:
 1. A multithreaded "Swiss Army knife" to supplant both `find` and `grep`. On one hand, [`rigprep`](https://github.com/burntsushi/ripgrep) is often enough. On the other hand, it is just a replacement for `grep`, which is so often used together with `find`. An attempt to combine the two into one tool (even if very complicated) could be a great adventure, both in its "theoretical" and "coding" parts. 
 1. A shader for imitating old TVs and computer monitors and trying to do it as close to how they worked as possible. This would likely be for self-growth as many such shaders exist, but hey, I can create MINE.
-1. A CT scan simulator, exploring the various reconstruction algorithms designed to date. While the opposite (well, rough opposite, not the exact mathematical inverse) is straightforward, coding the actual "rays to voxels" process could be fun. Elon Musk has claimed he'd designed "a primitive MRI in college", but I'm not brave enough to go through the insane math underneath.
+1. A CT scan simulator, exploring the various reconstruction algorithms designed to date. While the opposite (well, rough opposite, not the exact mathematical inverse) is straightforward, coding the actual "rays to voxels" process could be fun. One famous man has claimed he'd designed "a primitive MRI in college", but I'm not brave enough to go through the insane math underneath, I'll just stop at "I don't really believe you".
 
 <!--
 ### ⚙️ &nbsp;Other tech I have used in my lifetime
